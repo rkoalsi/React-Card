@@ -39,16 +39,14 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "useprivateroute",
-  "author": "rkoalsi",
-  "module": "dist/useprivateroute.esm.js",
+  "module": "dist/reactcard.esm.js",
   "size-limit": [
     {
-      "path": "dist/useprivateroute.cjs.production.min.js",
+      "path": "dist/reactcard.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/useprivateroute.esm.js",
+      "path": "dist/reactcard.esm.js",
       "limit": "10 KB"
     }
   ],
