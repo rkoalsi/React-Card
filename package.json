@@ -1,4 +1,10 @@
 {
+  "name": "React-Card",
+  "author": "Rohan Kalsi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkoalsi/React-Card.git"
+  },
   "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
